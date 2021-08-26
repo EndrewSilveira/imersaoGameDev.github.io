@@ -1,3 +1,12 @@
+# Jogo 2d Criado na Imersão Game Dev da Alura
+
+![](assets/game.png)
+
+## Tecnologias Utilizadas:
+- HTML
+- CSS
+- JavaScript
+- Biblioteca P5.js
 # Link jogável no p5.js
 
 https://editor.p5js.org/EndrewSilveira/full/lx3pMbozj
